@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-[![MIT License][license-shield]][license-url]
+
 
 
 <!-- PROJECT LOGO -->
@@ -16,3 +16,7 @@
     A fast way to search something!
   </p>
 </div>
+
+[![MIT License][license-shield]][license-url]
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fc350cb5-b858-4837-aeb6-5575abf2fc34/deploy-status)](https://app.netlify.com/sites/termsearch/deploys)
