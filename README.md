@@ -17,6 +17,6 @@
   </p>
 </div>
 
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge]
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fc350cb5-b858-4837-aeb6-5575abf2fc34/deploy-status)](https://app.netlify.com/sites/termsearch/deploys)
