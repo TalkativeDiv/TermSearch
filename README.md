@@ -1,8 +1,7 @@
 <div id="top"></div>
 
 
-<img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge"
-        height="130">
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -12,7 +11,9 @@
   </a>
 
   <h3 align="center">TermSearch</h3>
-
+<img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge"
+        height="15">
+        
   <p align="center">
     A fast way to search something!
   </p>
