@@ -1,7 +1,8 @@
 <div id="top"></div>
 
 
-
+<img src="https://img.shields.io/badge/LICENSE-MIT-brightgreen?style=for-the-badge"
+        height="130">
 
 <!-- PROJECT LOGO -->
 <br />
